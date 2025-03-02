@@ -7,6 +7,16 @@ Demographic breakdowns (age group, ethnicity, education level, marital status), 
 ![OCD D3](https://github.com/user-attachments/assets/048fc2f5-4c43-4492-9f08-c5ea4f20c7e0)
 ![OCD D4](https://github.com/user-attachments/assets/0e8c22a6-544b-4524-b39e-38df3867b3b2)
 
+# Brief
+
+After some days of intense data transformation and analysis in SQL, I’ve created a dynamic report
+that uncovers actionable insights into patient performance metrics for OCD diagnosis.
+
+This project challenged me to leverage a powerful toolkit: 
+
+SQL: for database querying and analysis
+Microsoft Power BI: for dynamic visualizations and dashboards 
+MS Word & PowerPoint: for structured documentation and stakeholder-ready presentations 
 
 
 
